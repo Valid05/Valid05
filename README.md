@@ -1,4 +1,4 @@
-<h1 align="center">Ассаламу 1алейкум, меня зовут Гоникеев валид.</h1>
+<h1 align="center">Ассаламу 1алейкум, меня зовут Валид.</h1>
 <h3 align="center">Фронт энд девелопер.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intocode&label=Profile%20views&color=0e75b6&style=flat" alt="intocode" /> </p>
